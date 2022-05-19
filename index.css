@@ -1,0 +1,45 @@
+.navbar{
+  padding-top:2%;
+  padding-bottom:2%;
+  color: white;
+  text-align: center;
+}
+.h1{
+  font-size: 3rem;
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+text-align: center;
+}
+.h12{
+  margin-top:10%;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+}
+.img{
+  width: 55%;
+}
+body{
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-color: #C5D8A4;
+}
+.h2{
+  padding-bottom:2%;
+  font-family:'Merriweather', serif;
+}
+footer{
+  margin-top:3%;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: white;
+}
+.a1{
+  float: right;
+  margin-right:5%;
+  font-size: 1.5rem;
+  color: grey;
+}
